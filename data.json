@@ -1,22 +1,21 @@
 {
     "templates_count": 2,
     "populars": [
-        0,
-        1
+        {
+            "index": 0,
+            "name": "Tom Boi 0",
+            "filaname": "img_0.png"
+        },
+        {
+            "index": 1,
+            "name": "Tom Boi 1",
+            "filaname": "img_1.png"
+        }
     ],
     "templates": [
         {
             "Tom Boi": [
-                {
-                    "index": 0,
-                    "name": "Tom Boi 0",
-                    "filaname": "img_0.png"
-                },
-                {
-                    "index": 1,
-                    "name": "Tom Boi 1",
-                    "filaname": "img_1.png"
-                }
+
             ]
         }
     ]
