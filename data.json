@@ -1,22 +1,21 @@
 {
-    "popular_count": 2,
-    "populars": [
-        {
-            "index": 0,
-            "name": "Tom Boi 0",
-            "filaname": "img_0.png"
-        },
-        {
-            "index": 1,
-            "name": "Tom Boi 1",
-            "filaname": "img_1.jpg"
-        }
-    ],
-    "templates": [
-        {
-            "Tom Boi": [
-
-            ]
-        }
-    ]
+  "populars": [
+    {
+      "name": "Tom Boi 0",
+      "tags": "tom,boi",
+      "filename": "img_0.png"
+    },
+    {
+      "name": "Tom Boi 1",
+      "tags": "tom,boi",
+      "filename": "img_1.jpg"
+    }
+  ],
+  "all": [
+    {
+      "name": "Tom Boi 1",
+      "tags": "tom,boi",
+      "filename": "img_1.jpg"
+    }
+  ]
 }
