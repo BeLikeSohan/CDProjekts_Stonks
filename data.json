@@ -13,6 +13,11 @@
   ],
   "all": [
     {
+      "name": "Tom Boi 0",
+      "tags": "tom,boi",
+      "filename": "img_0.png"
+    },
+    {
       "name": "Tom Boi 1",
       "tags": "tom,boi",
       "filename": "img_1.jpg"
@@ -26,6 +31,21 @@
       "name": "Abar Fire Elam",
       "tags": "abar,fire,elam",
       "filename": "img_1.jpg"
+    },
+    {
+      "name": "Chacha, Apne?",
+      "tags": "chacha,apne",
+      "filename": "img_3.jpg"
+    },
+    {
+      "name": "Kola haate boshe achi",
+      "tags": "kola,haate,boshe,achi",
+      "filename": "img_4.jpg"
+    },
+    {
+      "name": "Tomar chokh lal ken?",
+      "tags": "tomar,chokh,lal,ken",
+      "filename": "img_5.jpg"
     }
   ]
 }
